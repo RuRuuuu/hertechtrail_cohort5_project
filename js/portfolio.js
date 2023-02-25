@@ -65,3 +65,4 @@
 	        isotope();
 	        $(window).smartresize(isotope);
 	    }(jQuery));
+		

@@ -28,6 +28,7 @@ body {
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.80857;
+    word-spacing: 6px;
 }
 
 html, body{
@@ -2230,7 +2231,7 @@ select.mobile-device {
 }
 
 #contact {
-    background: url(images/1.jpg) no-repeat center center #ffffff;
+    background: url(images/1.jpg) no-repeat center center #ffffff; 
 }
 
 .contact_form textarea.form-control{
@@ -2617,3 +2618,105 @@ select.mobile-device {
     border-color: rgba(255, 255, 255, 0.6);
     color: rgba(255, 255, 255, 0.6);
 }
+
+.tech{
+    width:150px;
+    height: 50px;
+    
+}
+.teci{
+    width:120px;
+    height:80px;
+}
+
+.techno{
+    margin-bottom: 30px;
+    margin-left: 40px;
+      padding-top: 15px;
+
+}
+
+
+#about:hover{
+   background-image: linear-gradient(to right, #fffbd5, #b20a2c);
+    color:black;
+
+}
+ .crm{
+    height:80px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+ }
+ .wig{
+    height:120px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    margin-top: 30px;
+    
+ }
+
+ #txt{
+    text-shadow:2px 2px 6px #ff0000;;
+    text-align: center;
+    letter-spacing: 4px;
+ }
+
+  #odin{
+    height:270px;
+
+ } 
+ #image1{
+    height:270px;
+ }
+
+ #per{
+    height: 270px;
+ }
+  #image2{
+    height:270px;
+  }
+
+ #nft{
+    height: 270px;
+ }
+
+ #image3{
+     height: 270px;
+ }
+ #image4{
+    height:270px;
+ }
+ #kuda{
+    height:270px;
+ }
+ #sus{
+    height:270px;
+ }
+ #image5{
+    height:270px;
+ }
+
+ #conta{
+    margin-top: 80px;
+ }
+ #image6{
+    height:270px;
+ }
+ #cod{
+    height:270px;
+ }
+
+    #rukki{
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 40%;
+    margin-left: 90px;
+    margin-top: 30px;
+    height:400px;
+    width:auto;
+
+  /*  margin-top: 10px; */
+    
+ }
+
+
